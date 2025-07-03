@@ -1,4 +1,4 @@
----
+
 
 # 🛡️ Ethical Hacking Final Project – Vulnerability Assessment Report
 
@@ -6,13 +6,12 @@
 > 📅 **Date of Certification**: July 21, 2023
 > 🖥️ **Target**: E-commerce Web Application (Simulated Real-World Environment)
 
----
+
 
 ## 📌 Overview
 
 This repository contains the final submission for the **Ethical Hacking Training Project** by Internshala. The objective was to perform a **realistic penetration test** on a mock e-commerce platform, identify vulnerabilities, and create a **developer-level vulnerability report** with step-by-step Proof of Concepts (PoCs) and actionable remediations.
 
----
 
 ## 🧪 Scope of Work
 
@@ -24,7 +23,7 @@ As part of the project:
 * Explored hidden components, bypasses, and insecure configurations.
 * Verified vulnerabilities with PoCs, payloads, and screenshots.
 
----
+
 
 ## 🎯 Target Vulnerabilities (Intentionally Planted)
 
@@ -50,7 +49,7 @@ The following vulnerabilities were expected to be discovered and reported:
 
 > 📌 Note: Combinational vulnerabilities were also explored (e.g. Rate Limiting + Bruteforce).
 
----
+
 
 ## 📄 Reporting Format
 
@@ -66,14 +65,14 @@ Each vulnerability was reported with the following structure:
 * **Recommended Fixes**
 * **Reputable References (e.g., OWASP, HackerOne reports)**
 
----
+
 
 ## 🚫 Disclaimer
 
 > This repository is for **educational and ethical purposes only**. The vulnerabilities were found in a **simulated environment** provided by Internshala for training and certification.
 > **Do not** use these techniques on unauthorized systems. Always obtain proper consent before conducting any form of penetration testing.
 
----
+
 
 ## 🙌 Acknowledgements
 
