@@ -2,9 +2,9 @@
 
 # 🛡️ Ethical Hacking Final Project – Vulnerability Assessment Report
 
-> *✅ **Certified by Internshala** 
-> *📅 **Date of Certification**: July 21, 2023 
-> *🖥️ **Target**: E-commerce Web Application (Simulated Real-World Environment)
+> ✅ **Certified by Internshala**␣␣  
+> 📅 **Date of Certification**: July 21, 2023␣␣  
+> 🖥️ **Target**: E-commerce Web Application (Simulated Real-World Environment)
 
 
 ## 📌 Overview
